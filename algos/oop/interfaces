@@ -1,0 +1,12 @@
+An interface is similar to a class. An interface is a collection of abstract methods and a class implements  an interface
+Along with abstract methods, an interface may contain:
+ - constants,
+ - Default methods,
+ - Static Methods,
+ - Nested types
+Method bodies exist only for default methods and static methods.
+
+Tagging interface:
+    - This is an interface without methods.
+    1. Creates a common parent. => used to create a common parent among a group of interfaces
+    2. Adds a data type to a class. => a class implementing a tagging interface does not need to define methods but the class becomes an interface type through polymorphism 

@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Twosum",
+            "request": "launch",
+            "mainClass": "Twosum"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Random",
+            "request": "launch",
+            "mainClass": "Random"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Suubi",
+            "request": "launch",
+            "mainClass": "Suubi"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CommandLines",
+            "request": "launch",
+            "mainClass": "CommandLines"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CommandLine",
+            "request": "launch",
+            "mainClass": "CommandLine"
+        }
+    ]
+}
