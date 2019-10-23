@@ -1,0 +1,5 @@
+Thought process.
+we are going to compare the current number with the number before and swap if the number before
+is greater than the current number
+[6, 5, 7, 19, 0]
+5,6,7,19,0
